@@ -1,0 +1,4 @@
+autologin
+=========
+
+Magento autologin plugin
